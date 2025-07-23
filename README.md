@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there! <img src="https://slackmojis.com/emojis/22210-peepo_happy.gif" width="25"/>
 
 <!--
 **brij1197/brij1197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
