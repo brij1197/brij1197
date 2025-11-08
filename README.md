@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I completed my Master's in Computer Science from [**Simon Fraser University**](https://www.sfu.ca/), focusing on Cybersecurity.
 I currently work as a Software Engineer at [**NetApp**](https://github.com/netapp), where I help build the Core Software for NetApp ONTAP.
 
 Outside of work, I am usually interested in the advancements in the field of science, and I game a lot.
