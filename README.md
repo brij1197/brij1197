@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://cdn3.emoji.gg/emojis/9652-peepohey.gif" width="25"/>
 
-I'm [**Brij**](https://brij1197.github.io/), a software engineer in Vancouver.
+I'm [**Brij**](https://brij1197.github.io/), a software engineer in India.
 <!--
 **brij1197/brij1197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I currently work as a Software Engineer at [**NetApp**](https://github.com/netapp), where I help build the Core Software for NetApp ONTAP.
+
+### Keep In Touch
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/brijbhatia)
