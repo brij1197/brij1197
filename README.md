@@ -1,4 +1,4 @@
-## Hi there! <img src="https://cdn3.emoji.gg/emojis/9652-peepohey.gif" width="25"/>
+## Hi there! <img src="https://media.tenor.com/V0uu0QXudwMAAAAj/peepo-hey.gif" width="25"/>
 
 I'm [**Brij**](https://brij1197.github.io/), a software engineer in India.
 <!--
